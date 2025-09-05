@@ -49,7 +49,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Type_selectors*/
 }
 
 article {
-    background-image: url("./assets/vietnam1.webp");
+    background-image: url("/assets/vietnam1.webp");
     background-size: contain;
 }
 
@@ -89,7 +89,7 @@ header {
 }
 
 body {
-    background-image: url("./assets/background2.jpg");
+    background-image: url("/assets/background2.jpg");
     background-size: 1600px;
     background-repeat: no-repeat;
 }
